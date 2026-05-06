@@ -25,3 +25,5 @@ java Main
 
 ## Author
 Koushik
+
+## Output Screenshot
