@@ -31,3 +31,5 @@ Koushik
 ![Project Output](javaoutput1.png)
 
 ## Student Details
+
+![Project Output](javaoutput2.png)
