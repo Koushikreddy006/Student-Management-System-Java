@@ -26,10 +26,13 @@ java Main
 ## Author
 Koushik
 
-## Output Screenshot
+## Output Screenshots
 
+### Main Menu
 ![Project Output](javaoutput1.png)
 
-## Student Details
-
+### Student Details
 ![Project Output](javaoutput2.png)
+
+### View Students
+![View Students](javaoutput3.png)
