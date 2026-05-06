@@ -27,3 +27,4 @@ java Main
 Koushik
 
 ## Output Screenshot
+![Project Output](output.png)
